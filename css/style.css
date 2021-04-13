@@ -21,6 +21,7 @@ header {
     background: url(../img/back.jpg);
     background-size: cover;
     background-position: center;
+    z-index: -2;
 }
 .headeroverlay {
     position: absolute;
